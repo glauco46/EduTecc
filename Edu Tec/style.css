@@ -1,0 +1,180 @@
+* {
+    background-color: #f8f0db;;
+}
+
+h1 {
+    justify-content: center;
+    text-align: center;
+    width: 696px;
+    height: 163px;
+    left: 516px;
+    top: 148px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 120px;
+    line-height: 163px;
+    
+    color: #FF6C00;
+    
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.fa-sharp-fa-solid-fa-house {
+width: 79px;
+height: 79px;
+left: 16px;
+top: 29px;
+}
+
+.fa-solid-fa-user {
+width: 55px;
+height: 56px;
+left: 106px;
+top: 41px;
+}
+
+.fa-solid-fa-magnifying-glass {
+width: 932px;
+height: 53px;
+left: 398px;
+top: 41px;
+
+background: #FFC396;
+border-radius: 20px;
+}
+
+#search {
+width: 42px;
+height: 42px;
+left: 417px;
+top: 47px;
+}
+
+#img1 { 
+width: 541px;
+height: 296px;
+left: 8px;
+top: 387px;
+}
+
+#img2 {
+width: 516px;
+height: 300px;
+left: 611px;
+top: 379px;
+}
+
+#img3 {
+width: 616px;
+height: 344px;
+left: 1184px;
+top: 374px;
+}
+
+#img4 {
+width: 531px;
+height: 301px;
+left: 0px;
+top: 782px;
+}
+
+#img5 {
+width: 555px;
+height: 313px;
+left: 581px;
+top: 770px;
+}
+
+#img6 {
+width: 622px;
+height: 337px;
+left: 1181px;
+top: 752px;
+}
+
+#img7 {
+width: 504px;
+height: 300px;
+left: 27px;
+top: 1175px;
+}
+
+#img8 {
+width: 519px;
+height: 300px;
+left: 604px;
+top: 1163px;
+}
+
+#img9 {
+width: 504px;
+height: 300px;
+left: 1188px;
+top: 1175px;
+}
+
+#img10 {
+width: 566px;
+height: 320px;
+left: 27px;
+top: 1552px;
+}
+
+#img11 {
+width: 540px;
+height: 280px;
+left: 609px;
+top: 1575px;
+}
+
+#img12 {
+width: 548px;
+height: 300px;
+left: 1192px;
+top: 1555px;   
+}
+
+#img13 {
+width: 504px;
+height: 300px;
+left: 27px;
+top: 1935px;     
+}
+
+#img14 {
+width: 504px;
+height: 300px;
+left: 612px;
+top: 1935px;
+}
+
+#img15 {
+width: 504px;
+height: 300px;
+left: 1188px;
+top: 1935px;
+}
+
+#img16 {
+width: 504px;
+height: 300px;
+left: 31px;
+top: 2315px; 
+}
+
+#img17 {
+width: 504px;
+height: 300px;
+left: 616px;
+top: 2315px;
+}
+
+#img18 {
+width: 504px;
+height: 300px;
+left: 1192px;
+top: 2315px;
+}
+
